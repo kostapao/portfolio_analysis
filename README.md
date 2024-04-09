@@ -22,7 +22,7 @@ The sidebar contains filter options for the total portfolio under "Portfolio"
 * Slider for LTV
 * In case you would like to add a comparison portfolio check the box "Include Comparison Portfolio".
   
-The comparison portfolio has two filter option, either driectly check max(LTV Compare) <= 80 or the slider where x can be between 0 and 100.
+The comparison portfolio has two filter options, either directly check max(LTV Compare) <= 80 OR the slider where x can be between 0 and 100.
 
 In case you would like to include the security amount in the analysis check the "Include Security Amount" checkbock. The portfolio AND the comparison portfolio will include the security amount.
 
