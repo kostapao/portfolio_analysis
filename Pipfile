@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+streamlit = "*"
+numpy = "*"
+openpyxl = "*"
+bokeh = "==2.4.3"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"
