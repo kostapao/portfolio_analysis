@@ -31,6 +31,6 @@ Additions not mentioned in the task but seemed useful to me:
 1. Ability to visualize individual projects under "Potential Loss Per Project"
 2. Ability to Download the processed data
 
-![image](https://github.com/kostapao/portfolio_analysis/assets/20754526/2d463d98-b9a6-4f4f-990f-ecf71910296a)
+![image](https://github.com/kostapao/portfolio_analysis/assets/20754526/adc15d71-c818-4db2-9fe6-7993d9915f76)
 
 
